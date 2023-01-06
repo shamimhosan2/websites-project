@@ -1,9 +1,38 @@
 *{
     margin: 0;
 }
-.title{
+.contant-title{
     font-weight: 700;
+    font-size: 50px;
+}
+.manin-contant{
+    margin-top: 160px;
+    text-align: right;
+    margin-right: 208px;
+}
+.pargarph{
+    width: 347px;
+    margin-left: 794px;
+    margin-top: 5px;
+    margin-bottom: 14px;
+    color: gray;
+
+}
+
+.btn-prymary{
+    border-radius: 5px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 700px;
+    background: red;
+    color:white;
+    padding: 5px 21px;
+    border: 1px solid white;
+    margin-top: 12px;
+    margin-bottom: 9px;
+    margin-left: 310px;
 }
 .sub-title{
     font-weight: 700;
+    font-size: 50px;
 }
