@@ -6,9 +6,10 @@
     font-size: 50px;
 }
 .manin-contant{
-    margin-top: 160px;
     text-align: right;
     margin-right: 208px;
+    height: 700px;
+    padding-top: 313px;
 }
 .pargarph{
     width: 347px;
@@ -35,4 +36,8 @@
 .sub-title{
     font-weight: 700;
     font-size: 50px;
+}
+.new-year{
+    background-image: url("banner1.png");
+    background-repeat: no-repeat;
 }
