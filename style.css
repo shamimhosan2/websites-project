@@ -89,14 +89,14 @@ i, p{
 .plans-part{
     display: flex;
     justify-content: space-between;
-    margin: 25px 459px;
+    margin: 25px 372px;
 }
 
 .plans{
     text-align: center;
     margin-top: 10px;
 
-}
+}*/
 .plans h1{
     font-size: 30px;
 }
@@ -104,22 +104,29 @@ i, p{
     margin-top: 75px;
 
 }
+.plans h1{
+    font-size: 42px;
+}
 .mainspart h4{
     font-size: 22px;
     margin-top: 2px;
     margin-bottom: 5px;
 }
+.mainspart{
+    margin: 0px 0px;
+}
+
 .mainspart h6{
     color: gray;
+    text-align: center;
+    margin-right: 50px;
 }
 
 /*mind start*/
 .mindset{
     text-align: left;
-    height: 117px;
-    width: 387px;
-    /* margin: 0px 149px; */
-    padding: 77px;
+    height: 134px;
+    padding: 60px;
 }
 .btnes-prymary{
     border-radius: 5px;
@@ -138,9 +145,12 @@ i, p{
     color: white;
 }
 .positive{
-    background-image:  url("gradient2.png"), url("images/watch.png");
+    background-image: url(gradient2.png), url(images/watch.png);
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 81px 364px;
-}
+    margin: 81px 395px 0px 364px;
+}   
+
+/* last part happy new year*/
+
 
