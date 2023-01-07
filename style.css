@@ -7,16 +7,16 @@
 }
 .manin-contant{
     text-align: right;
-    margin-right: 445px;
+    margin-right: 281px;
     height: 700px;
-    padding-top: 313px;
+    padding-top: 390px;
 }
 .pargarph{
     width: 347px;
     /* margin-left: 1129px; */
-    margin-top: 5px;
+    margin-top: 13px;
     margin-bottom: 14px;
-    margin-left: 891px;
+    margin-left: 1065px;
     color: gray;
 }
 
@@ -41,6 +41,7 @@
 .new-year{
     background-image: url("banner1.png");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .icon{
     display: flex;
@@ -55,7 +56,7 @@ i{
     display: flex;
 }
 .fast-site-img img{
-    margin-left: 130px;
+    margin-left: 157px;
     width: 90%;
 }
 
@@ -73,7 +74,7 @@ i{
 }
 
 .new-item{
-    margin-left: 196px;
+    margin-left: 250px;
     margin-top: 330px;
 }
 i, p{
@@ -110,4 +111,30 @@ i, p{
 }
 .mainspart h6{
     color: gray;
+}
+
+/*mind start*/
+.mindset{
+    text-align: left;
+}
+.btnes-prymary{
+    border-radius: 5px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 700px;
+    background: red;
+    color:orange;
+    padding: 5px 21px;
+    border: 1px solid white;
+    margin-top: 12px;
+    margin-bottom: 9px;
+}
+.keep-title{
+    font-size: 40px;
+}
+.positive{
+    background-image: url("images/watch.png"), url("images/gradient2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
