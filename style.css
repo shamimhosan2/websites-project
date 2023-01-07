@@ -77,7 +77,7 @@ i{
     margin-left: 250px;
     margin-top: 330px;
 }
-i, p{
+.icon i, p{
     margin-top: 6px;
     margin-left: 4px;
 
@@ -153,4 +153,44 @@ i, p{
 
 /* last part happy new year*/
 
+.happy-new-years{
+    display: flex;
+    justify-content: space-between;
+    background: #151414;
+    margin-top: 80px;
+}
+.facebook{
+    display: flex;
+    align-items: center;
+}
+.receive{
+    margin: 52px 358px;
+    display: flex;
+    justify-content: space-between;
+}
+.good-movement{
+    margin-right: 212px;
+}
+.nn{
+    font-size: 30px;
+    color: white;
+}
+.devlop{
+    width: 286px;
+    color: gray;
+}
+.mail{
+    color: gray; 
+}
+input{
+    color: gray;
+    width: 263px;
+    margin-top: 9px;
+    height: 37px;
 
+}
+.facebook-part img{
+    border-radius: 50%;
+    border: 1px solid gray;
+    margin: 2px;
+}
