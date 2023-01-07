@@ -12,11 +12,10 @@
     padding-top: 390px;
 }
 .pargarph{
-    width: 347px;
-    /* margin-left: 1129px; */
+    width: 348px;
     margin-top: 13px;
-    margin-bottom: 14px;
-    margin-left: 1065px;
+    margin-bottom: 11px;
+    margin-left: 721px;
     color: gray;
 }
 
@@ -64,7 +63,9 @@ i{
     font-size: 42px;
 }
 .main-para{
+    margin-right: 194px;
 }
+
 .new-para{
     width: 350px;
     margin-top: 1;
@@ -89,7 +90,7 @@ i{
 .plans-part{
     display: flex;
     justify-content: space-between;
-    margin: 25px 372px;
+    margin: 25px 346px;
 }
 
 .plans{
@@ -148,7 +149,7 @@ i{
     background-image: url(gradient2.png), url(images/watch.png);
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 81px 395px 0px 364px;
+    margin: 86px 372px 0px 335px;
 }   
 
 /* last part happy new year*/
