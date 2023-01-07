@@ -1,61 +1,30 @@
 *{
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Work Sans', sans-serif;
 }
-    /*header styles*/
-    .header{
-        background-image: url("banner3.png");
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        width: 100%;
-        margin-bottom: 100px;
-       
-    }
-    .h-title{
-        text-align: right;
-        padding-top: 100px;
-        font-weight: 700;
-        font-size: 60px;
-        padding-right: 170px;
-    }
-    .h-sub-title{
-        text-align: right;
-        font-weight: 700;
-        font-size: 60px;
-        padding-right: 170px;
-    }
-    .h-description{
-        text-align: right;
-        color: gray;
-        font-weight: 400;
-        font-size: 16px;
-        padding-right: 170px;
-        padding-top: 30px;
-        line-height: 30px;
-    }
-    .header .btn-primary{
-         margin-left: 80%;
-         padding: 20px;
-         background-color: #FFFFFF;
-         color: red;
-         border: 0;
-         border-radius: 5px;
-         margin-top: 35px;
-         font-size: 20px;
-         margin-bottom: 100px;
-    }
 
 
-    mor
+.btn-prymary{
+    border-radius: 5px;
+    height: 48px;
+    font-size: 14px;
+    font-weight: 700px;
+    background: red;
+    color:white;
+    padding: 5px 21px;
+    border: 1px solid white;
+    margin-top: 12px;
+    margin-bottom: 9px;
+    margin-left: 310px;
+}
+.sub-title{
+    font-weight: 700;
+    font-size: 50px;
+}
 .new-year{
     background-image: url("banner1.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
-l
 .icon{
     display: flex;
     align-items: center;
