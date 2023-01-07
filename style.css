@@ -41,3 +41,31 @@
     background-image: url("banner1.png");
     background-repeat: no-repeat;
 }
+.icon{
+    display: flex;
+    align-items: center;
+}
+i{
+    color: blue;
+    margin-left: 2px;
+}
+.second-new-year{
+    display: flex;
+}
+.fast-site-img img{
+    margin-left: 130px;
+    width: 90%;
+}
+
+.failure{
+    font-size: 42px;
+}
+.main-para{
+    margin-left: 112px;
+    margin-top: 347px;
+}
+.new-para{
+    width: 329px;
+    margin-top: 1;
+    margin-top: 13px;
+} 
